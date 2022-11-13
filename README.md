@@ -2,4 +2,4 @@
 
 Enginyeria de Requisits
 
-Projecte
+Projecte i exercicis d'Atenea
